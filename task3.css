@@ -1,0 +1,49 @@
+.container{
+    border: 10px solid mediumpurple;
+    width: 50rem;
+    height: 40rem;
+    position: absolute;
+    left: 20rem;
+}
+.egg1{
+    width: 4rem;
+    position: relative;
+    left: 10rem;
+    
+}
+
+.egg2{
+    width: 5rem;
+    position: relative;
+    top: 30rem;
+    left: 25rem;
+}
+.basket{
+    width: 8rem;
+    position: relative;
+    top: 31rem;
+}
+.invisible{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
+
+/* span{
+    display: inline-block;
+    background-color: red;
+    width: 64px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    top:-89px ;
+    left:10px ;
+} */
+
+h2{
+    position: relative;
+    top:-135px;
+    left: 10px
+}
